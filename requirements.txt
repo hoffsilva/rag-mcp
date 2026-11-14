@@ -1,0 +1,6 @@
+mcp==2.3.0
+openai==3.51.0
+pgvector==0.5.1
+psycopg==3.3.9
+psycopg-binary==3.3.9
+python-dotenv==1.2.4
